@@ -1,8 +1,8 @@
 name       : linux-current
-version    : 5.0.5
-release    : 113
+version    : 5.0.6
+release    : 114
 source     :
-    - https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.5.tar.xz : 5fbd807bf2aa0a80a0bf165692d89aaf3463d03043419b0a9b104f55f12c94d0
+    - https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.6.tar.xz : 9e4a9a8d8a07b7fc696d734f6e822cf43c45cecfe3ab4c089b349bfc701ff413
 license    :
     - GPL-2.0-only
 component  :

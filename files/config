@@ -1,13 +1,13 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/x86_64 5.0.1-112.current Kernel Configuration
+# Linux/x86 5.0.6-114.current Kernel Configuration
 #
 
 #
-# Compiler: gcc (Solus) 8.2.0
+# Compiler: gcc (Solus) 8.3.1 20190320
 #
 CONFIG_CC_IS_GCC=y
-CONFIG_GCC_VERSION=80200
+CONFIG_GCC_VERSION=80301
 CONFIG_CLANG_VERSION=0
 CONFIG_CC_HAS_ASM_GOTO=y
 CONFIG_IRQ_WORK=y
