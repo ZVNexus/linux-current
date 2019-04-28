@@ -1,8 +1,8 @@
 name       : linux-current
-version    : 5.0.7
-release    : 114
+version    : 5.0.10
+release    : 115
 source     :
-    - https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.7.tar.xz : 16e177662b9fc7255bfc51018513979f6effcbe52e459c543aa83a5b15ef54ec
+    - https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.0.10.tar.xz : ea1c1323c2c7e70bebf5463619b543f9bc353730b44ac62d9efadd4fe5625e76
 license    :
     - GPL-2.0-only
 component  :
