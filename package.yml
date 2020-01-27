@@ -1,8 +1,8 @@
 name       : linux-current
-version    : 5.4.12
-release    : 144
+version    : 5.5.0
+release    : 145
 source     :
-    - https://cdn.kernel.org/pub/linux/kernel/v5.x/linux-5.4.12.tar.xz : d9c3c7a2d52d25c24cbca0f89d55511422d3d207c573d42ec58f7f17c948d0fb
+    - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/snapshot/linux-5.5.tar.gz : 87c2ecdd31fcf479304e95977c3600b3381df32c58a260c72921a6bb7ea62950
 license    : GPL-2.0-only
 component  :
     - kernel.image
